@@ -1,2 +1,12 @@
 title: Ngo Le Duy Anh
+
+description: | # Dùng | để cho phép xuống dòng
+  [View My GitHub Profile](https://github.com/anhngo2803)
+  <br>
+  **Email:** [duyanhngole19@gmail.com](duyanhngole19@gmail.com)
+  <br>
+  **LinkedIn:** [Linkedin](www.linkedin.com/in/duyanhngo03)
+  <br>
+  **Phone:** 0938180103
+
 theme: jekyll-theme-minimal
