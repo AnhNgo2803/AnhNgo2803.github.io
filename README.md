@@ -1,11 +1,3 @@
-# Personal Portfolio
-
-Hi my name is Anh Ngo Le Duy, you can called me Andy or Anh. This is my portfolio, which shows my story about Data Science learning journey, experiences, and what knowledge I gained through years of learning in university.
-
-# RESUME  
-## Ngô Lê Duy Anh  
-
----
 
 ### OBJECTIVE  
 Recent International Business graduate transitioning to Data Science, aiming to apply R, Python and analytics skills to support real-world business contributions.  
@@ -13,10 +5,12 @@ Recent International Business graduate transitioning to Data Science, aiming to 
 ---
 
 ### EDUCATION  
-**Western Sydney University** | Bachelor of International Business  
+**Western Sydney University** | *Bachelor of International Business* 
+
 Ho Chi Minh city | 12.2021 – 2.2025  
 
-**Western Sydney University** | Bachelor of Data Science  
+**Western Sydney University** | *Bachelor of Data Science*  
+
 Ho Chi Minh city | 2.2025 – 4.2026  
 
 ---
